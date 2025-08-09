@@ -17,6 +17,5 @@ Dentro del documento PDF están las instrucciones para la prueba experimental, s
 
 ### Alambraje
 
-![Esquema de alambraje para el circuito]
-(https://github.com/sergioCaceresMC/Experimento-calculo-de-temperatura-con-velocidad-de-sonido/blob/master/Alambraje%20b%C3%A1sico.png)
+![Esquema de alambraje para el circuito](https://github.com/sergioCaceresMC/Experimento-calculo-de-temperatura-con-velocidad-de-sonido/blob/master/Alambraje%20b%C3%A1sico.png)
 
