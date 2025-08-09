@@ -19,3 +19,6 @@ Dentro del documento PDF están las instrucciones para la prueba experimental, s
 
 ![Esquema de alambraje para el circuito](https://github.com/sergioCaceresMC/Experimento-calculo-de-temperatura-con-velocidad-de-sonido/blob/master/Alambraje%20b%C3%A1sico.png)
 
+### Explicación
+
+Puedes ver la explicación de cómo se realiza el procedimiento del apartado A1 en proyecto-mitha.org: (https://proyecto-mitha.org/proyecto/determinar-la-temperatura-con-la-velocidad-del-sonido/)
